@@ -128,6 +128,11 @@ Thanks for making this project awesome 😍 — feel free to ⭐ and contribute 
 
 ---
 
+## 🧪 Browser & App Regression Testing
+- [Agent QA](https://github.com/vostride/agent-qa/) — Source-available CLI and MCP server for natural-language web and mobile regression tests with run memory; model-provider costs may apply. It is not an SEO audit tool.
+
+---
+
 ## 🧠 SEO Tricks & Tips
 - [Hide Email on Web Pages](https://www.labnol.org/internet/hide-email-address-web-pages/28364/)
 - [Remove Unused CSS](https://web.dev/unused-css-rules/)
